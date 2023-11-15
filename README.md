@@ -1,1 +1,0 @@
-# Discrete Logic Project Guidelines
