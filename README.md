@@ -1,1 +1,1 @@
-# .github
+# Discrete Logic Project Guidelines
