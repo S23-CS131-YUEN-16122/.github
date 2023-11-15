@@ -38,7 +38,7 @@
    - Documentation should be clear, well-formatted, and free of grammatical errors.
 
 ## 8. **Peer Review (if applicable):**
-   - If peer reviews are part of the evaluation, adhere to the guidelines and deadlines provided.
+   - If peer reviews are part of the evaluation, adhere to the guidelines and deadlines provide.
 
 ## 9. **Academic Integrity:**
    - All work submitted must be your own. Properly cite any external resources used in your project.
