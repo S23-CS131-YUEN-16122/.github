@@ -35,7 +35,7 @@
 
 ## 7. **Documentation:**
    - Include a project report in the `docs/` directory outlining your findings, methodology, and any conclusions.
-   - Documentation should be clear, well-formatted, and free of grammatical errors.
+   - Documentation should be clear, well-formatted, and free of grammatical errors..
 
 ## 8. **Peer Review (if applicable):**
    - If peer reviews are part of the evaluation, adhere to the guidelines and deadlines provided.
