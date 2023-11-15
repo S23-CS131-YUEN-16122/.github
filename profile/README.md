@@ -41,7 +41,7 @@
    - If peer reviews are part of the evaluation, adhere to the guidelines and deadlines provided.
 
 ## 9. **Academic Integrity:**
-   - All work submitted must be your own. Properly cite any external resources used in you project.
+   - All work submitted must be your own. Properly cite any external resources used in your project.
 
 ## 10. **Communication:**
     - Ensure to communicate with the instructor and/or classmates as directed for project updates and questions.
